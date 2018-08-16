@@ -53,6 +53,8 @@ Una vez instalado el Instalador, puede usarlo para personalizar la instalación 
   <img src="https://docs.microsoft.com/es-es/visualstudio/install/media/install-visual-studio-community.png"><br><br>
 </div>
 
+```
+
 Por ejemplo, elija la carga de trabajo "Desarrollo de escritorio de .NET". Incluye el editor principal predeterminado, que contiene compatibilidad de edición de código básica para más de 20 lenguajes, la capacidad de abrir y editar código desde cualquier carpeta sin necesitar un proyecto y control de código fuente integrado.
 
 2. Después de que seleccione las cargas de trabajo que quiera, haga clic en Instalar.
@@ -61,7 +63,7 @@ Después, aparecerán las pantallas de estado que muestran el progreso de su ins
 
 3. Después de que se instalen los nuevos componentes y cargas de trabajo, haga clic en Iniciar.
 
-
+```
 * Paso 5: Seleccionar componentes individuales(opcional)
 ```
 Si no desea usar la característica Cargas de trabajo para personalizar la instalación de Visual Studio, puede hacerlo mediante la instalación de componentes individuales. Para seleccionar componentes individuales, haga clic en la opción Componentes individuales del Instalador de Visual Studio, seleccione lo que quiera y siga las indicaciones.
@@ -81,7 +83,7 @@ De manera predeterminada, el programa instalador intenta hacer coincidir el idio
 Cambio del idioma del instalador en la línea de comandos
 Otra manera de cambiar el idioma predeterminado es mediante la ejecución del instalador desde la línea de comandos. Por ejemplo, puede forzar al instalador a utilizar el inglés utilizando el comando siguiente: vs_installer.exe --locale en-US. El instalador recordará esta configuración cuando se ejecute la próxima vez. El instalador admite los siguientes tokens de idioma: zh-cn, zh-tw, cs-cz, en-us, es-es, fr-fr, de-de, it-it, ja-jp, ko-kr, pl-pl, pt-br, ru-ru y tr-tr.
 ```
-* Paso 8: Empezar a desarrollar
+* Paso 7: Empezar a desarrollar
 ```
 1. Una vez completada la instalación de Visual Studio, haga clic en el botón Iniciar para empezar a desarrollar con Visual Studio.
 
