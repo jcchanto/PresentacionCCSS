@@ -9,9 +9,10 @@ Desarrollo de plataforma virtual para el lanzamiento de mensajes SMS y llamadas 
 ### Prerequisites
 
 Visual Studio 2015 - 2017
-```
+
 * Paso 1: Asegurarse de que el equipo está listo para Visual Studio
 
+```
 Antes de comenzar la instalación de Visual Studio:
 Compruebe los requisitos del sistema. Estos requisitos le permiten saber si el equipo es compatible con Visual Studio 2017.
 Aplique las actualizaciones de Windows más recientes. Estas actualizaciones garantizan que el equipo tiene las actualizaciones de seguridad más recientes y los componentes del sistema necesarios para Visual Studio.
