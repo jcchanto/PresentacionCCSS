@@ -79,12 +79,15 @@ De manera predeterminada, el programa instalador intenta hacer coincidir el idio
 <div align="center">
   <img src="https://docs.microsoft.com/es-es/visualstudio/install/media/vs2017-languages.png"><br><br>
 </div>
+
 ```
 Cambio del idioma del instalador en la línea de comandos
 Otra manera de cambiar el idioma predeterminado es mediante la ejecución del instalador desde la línea de comandos. Por ejemplo, puede forzar al instalador a utilizar el inglés utilizando el comando siguiente: vs_installer.exe --locale en-US. El instalador recordará esta configuración cuando se ejecute la próxima vez. El instalador admite los siguientes tokens de idioma: zh-cn, zh-tw, cs-cz, en-us, es-es, fr-fr, de-de, it-it, ja-jp, ko-kr, pl-pl, pt-br, ru-ru y tr-tr.
+
 ```
 * Paso 7: Empezar a desarrollar
 ```
+
 1. Una vez completada la instalación de Visual Studio, haga clic en el botón Iniciar para empezar a desarrollar con Visual Studio.
 
 2. Haga clic en Archivo y después en Abrir proyecto.
