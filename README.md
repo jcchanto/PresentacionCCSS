@@ -1,17 +1,29 @@
-# Project Title
+# pureWit
 
-One Paragraph of project description goes here
+Desarrollo de plataforma virtual para el lanzamiento de mensajes SMS y llamadas desde la web.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+(Lo mismo del readme actual)
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+Visual Studio 2015 - 2017
 ```
-Give examples
+Paso 1: Asegurarse de que el equipo está listo para Visual Studio
+
+Antes de comenzar la instalación de Visual Studio:
+Compruebe los requisitos del sistema. Estos requisitos le permiten saber si el equipo es compatible con Visual Studio 2017.
+Aplique las actualizaciones de Windows más recientes. Estas actualizaciones garantizan que el equipo tiene las actualizaciones de seguridad más recientes y los componentes del sistema necesarios para Visual Studio.
+Reinicie el equipo. El reinicio garantiza que cualquier actualización o instalación pendiente no dificultará la instalación de Visual Studio.
+Libere espacio. Quite los archivos y aplicaciones innecesarios de %SystemDrive% ejecutando, por ejemplo, la aplicación Liberar espacio.
+
+Paso2: Descargar Visual Studio
+
+A continuación, descargue el archivo de programa previo de Visual Studio. Para ello, haga clic en el botón siguiente, seleccione la edición de Visual Studio 2017 que desee instalar, haga clic en Guardar y, a continuación, haga clic en Abrir carpeta.
+Enlace: https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=button+cta&utm_content=download+vs2017
+
+
 ```
 
 ### Installing
