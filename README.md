@@ -52,7 +52,7 @@ Una vez instalado el Instalador, puede usarlo para personalizar la instalación 
 <div align="center">
   <img src="https://docs.microsoft.com/es-es/visualstudio/install/media/install-visual-studio-community.png"><br><br>
 </div>
-```
+
 Por ejemplo, elija la carga de trabajo "Desarrollo de escritorio de .NET". Incluye el editor principal predeterminado, que contiene compatibilidad de edición de código básica para más de 20 lenguajes, la capacidad de abrir y editar código desde cualquier carpeta sin necesitar un proyecto y control de código fuente integrado.
 
 2. Después de que seleccione las cargas de trabajo que quiera, haga clic en Instalar.
@@ -60,7 +60,7 @@ Por ejemplo, elija la carga de trabajo "Desarrollo de escritorio de .NET". Inclu
 Después, aparecerán las pantallas de estado que muestran el progreso de su instalación de Visual Studio.
 
 3. Después de que se instalen los nuevos componentes y cargas de trabajo, haga clic en Iniciar.
-```
+
 
 * Paso 5: Seleccionar componentes individuales(opcional)
 ```
