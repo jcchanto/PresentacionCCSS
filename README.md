@@ -1,6 +1,6 @@
 # pureWit
 
-Desarrollo de plataforma virtual para el lanzamiento de mensajes SMS y llamadas desde la web.
+Descripción
 
 ## Getting Started
 
@@ -14,21 +14,14 @@ Software requerido
 
 ```
 Versiones:
-Visual Studio 2015
-Visual Studio 2017
+Visual Studio 2010
 
 ```
 * MySql 
 
 ```
 Versiones
-MySQL 5.0
-MySQL 5.1
-MySQL 5.2
-MySQL 5.3
-MySQL 5.4
-MySQL 5.5
-MySQL 5.6
+
 ```
 ### Installing
 
